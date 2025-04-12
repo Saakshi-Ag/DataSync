@@ -1,8 +1,7 @@
  
 ## Project Title : Advanced Sales & Marketing Data Warehousing with Azure
 
-### Author : Pratik Ganguli 
-
+### Author : Saakshi Agarwal
 
 ## Overview
 This project focuses on designing and implementing a **sales and marketing data warehouse** for Adventure Works Cycles, utilizing **Azure Data Factory (ADF) for ETL workflows**, **Azure Data Studio for querying OLTP and OLAP databases**, and **Azure SQL Database for structured data storage**. The primary goal is to facilitate advanced **business intelligence analytics** to enhance decision-making in sales optimization, customer segmentation, discount impact analysis, and demand forecasting.
@@ -59,8 +58,8 @@ The primary objectives of this project include:
 - Loaded transformed data into **Fact and Dimension tables** for optimized querying.
 
 ## Key Findings
-- **VIP customers are the most profitable segment, with higher spending and repeat purchases, while regular and new customers show poor retention and limited revenue contribution.
-- **. Regionally, the Northwest market outperforms others in both sales and profitability, while premium-focused stores in Canada and France also show strong margins.
+- **VIP customers** are the most profitable segment, with higher spending and repeat purchases, while regular and new customers show poor retention and limited revenue contribution.
+- Regionally, the **Northwest market** outperforms others in both sales and profitability, while premium-focused stores in Canada and France also show strong margins.
 - **Seasonality significantly impacts sales**, with strong revenue peaks in certain quarters.
 - **Discounting strategies must be optimized** to prevent profit erosion while driving sales.
 
